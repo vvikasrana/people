@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleApi", "PeopleApi\PeopleApi.csproj", "{98E96A04-AF38-4C9D-87F3-94C81C28A1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E96A04-AF38-4C9D-87F3-94C81C28A1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E96A04-AF38-4C9D-87F3-94C81C28A1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E96A04-AF38-4C9D-87F3-94C81C28A1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E96A04-AF38-4C9D-87F3-94C81C28A1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

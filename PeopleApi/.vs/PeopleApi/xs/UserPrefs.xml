@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{98E96A04-AF38-4C9D-87F3-94C81C28A1AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PeopleApi/Controllers/PeopleController.cs">
+    <Files>
+      <File FileName="PeopleApi/Model/People.cs" Line="17" Column="27" />
+      <File FileName="PeopleApi/ApplicationContext.cs" Line="20" Column="1" />
+      <File FileName="PeopleApi/Core/MongoDbContext.cs" Line="11" Column="22" />
+      <File FileName="PeopleApi/Repository/IPeopleRepository.cs" Line="13" Column="35" />
+      <File FileName="PeopleApi/Repository/PeopleRepository.cs" Line="29" Column="10" />
+      <File FileName="PeopleApi/appsettings.json" Line="12" Column="30" />
+      <File FileName="PeopleApi/Startup.cs" Line="41" Column="48" />
+      <File FileName="PeopleApi/Controllers/PeopleController.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PeopleApi" expanded="True">
+            <Node name="PeopleApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PeopleController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PeopleApi FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
